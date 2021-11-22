@@ -1,0 +1,6 @@
+/djangoenv/
+./specialMath.py
+./specialMath/
+db.sqlite3
+__pycache__
+migrations
